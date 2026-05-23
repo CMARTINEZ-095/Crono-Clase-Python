@@ -4,7 +4,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-15",
-        "calificacion": 85,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -12,7 +12,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-22",
-        "calificacion": 88,
+        "calificacion": 3.5,
         "asistencia": "Presente"
     },
     {
@@ -20,7 +20,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-02-05",
-        "calificacion": 92,
+        "calificacion": 4.6,
         "asistencia": "Presente"
     },
     {
@@ -28,7 +28,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-16",
-        "calificacion": 78,
+        "calificacion": 4.4,
         "asistencia": "Presente"
     },
     {
@@ -36,7 +36,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-23",
-        "calificacion": 81,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -44,7 +44,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-02-06",
-        "calificacion": 79,
+        "calificacion": 3.6,
         "asistencia": "Presente"
     },
     {
@@ -52,7 +52,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-17",
-        "calificacion": 82,
+        "calificacion": 4.3,
         "asistencia": "Presente"
     },
     {
@@ -60,7 +60,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-24",
-        "calificacion": 84,
+        "calificacion": 3.9,
         "asistencia": "Presente"
     },
     {
@@ -68,7 +68,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-02-07",
-        "calificacion": 86,
+        "calificacion": 4.0,
         "asistencia": "Presente"
     },
     {
@@ -76,7 +76,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-18",
-        "calificacion": 88,
+        "calificacion": 2.9,
         "asistencia": "Presente"
     },
     {
@@ -84,7 +84,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-25",
-        "calificacion": 90,
+        "calificacion": 4.5,
         "asistencia": "Presente"
     },
     {
@@ -92,7 +92,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-02-08",
-        "calificacion": 92,
+        "calificacion": 4.6,
         "asistencia": "Presente"
     },
     {
@@ -100,7 +100,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-19",
-        "calificacion": 80,
+        "calificacion": 4.0,
         "asistencia": "Presente"
     },
     {
@@ -108,7 +108,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-26",
-        "calificacion": 82,
+        "calificacion": 4.3,
         "asistencia": "Presente"
     },
     {
@@ -116,7 +116,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-02-09",
-        "calificacion": 84,
+        "calificacion": 3.9,
         "asistencia": "Presente"
     },
     {
@@ -124,7 +124,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-15",
-        "calificacion": 95,
+        "calificacion": 4.0,
         "asistencia": "Presente"
     },
     {
@@ -132,7 +132,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-22",
-        "calificacion": 93,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -140,7 +140,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-02-05",
-        "calificacion": 96,
+        "calificacion": 4.8,
         "asistencia": "Presente"
     },
     {
@@ -148,7 +148,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-16",
-        "calificacion": 91,
+        "calificacion": 4.2,
         "asistencia": "Presente"
     },
     {
@@ -156,7 +156,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-23",
-        "calificacion": 93,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -164,7 +164,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-02-06",
-        "calificacion": 95,
+        "calificacion": 4.8,
         "asistencia": "Presente"
     },
     {
@@ -172,7 +172,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-17",
-        "calificacion": 87,
+        "calificacion": 3.7,
         "asistencia": "Presente"
     },
     {
@@ -180,7 +180,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-24",
-        "calificacion": 89,
+        "calificacion": 3.8,
         "asistencia": "Presente"
     },
     {
@@ -188,7 +188,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-02-07",
-        "calificacion": 91,
+        "calificacion": 4.2,
         "asistencia": "Presente"
     },
     {
@@ -196,7 +196,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-18",
-        "calificacion": 89,
+        "calificacion": 3.8,
         "asistencia": "Presente"
     },
     {
@@ -204,7 +204,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-25",
-        "calificacion": 91,
+        "calificacion": 4.2,
         "asistencia": "Presente"
     },
     {
@@ -212,7 +212,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-02-08",
-        "calificacion": 93,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -220,7 +220,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-19",
-        "calificacion": 92,
+        "calificacion": 4.6,
         "asistencia": "Presente"
     },
     {
@@ -228,7 +228,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-26",
-        "calificacion": 94,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -236,7 +236,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-02-09",
-        "calificacion": 96,
+        "calificacion": 4.3,
         "asistencia": "Presente"
     },
     {
@@ -244,7 +244,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-15",
-        "calificacion": 76,
+        "calificacion": 5.0,
         "asistencia": "Presente"
     },
     {
@@ -252,7 +252,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-22",
-        "calificacion": 78,
+        "calificacion": 4.4,
         "asistencia": "Ausente"
     },
     {
@@ -260,7 +260,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-02-05",
-        "calificacion": 80,
+        "calificacion": 4.0,
         "asistencia": "Presente"
     },
     {
@@ -268,7 +268,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-16",
-        "calificacion": 76,
+        "calificacion": 5.0,
         "asistencia": "Presente"
     },
     {
@@ -276,7 +276,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-23",
-        "calificacion": 74,
+        "calificacion": 4.7,
         "asistencia": "Ausente"
     },
     {
@@ -284,7 +284,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-02-06",
-        "calificacion": 80,
+        "calificacion": 4.0,
         "asistencia": "Presente"
     },
     {
@@ -292,7 +292,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-17",
-        "calificacion": 79,
+        "calificacion": 3.6,
         "asistencia": "Presente"
     },
     {
@@ -300,7 +300,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-24",
-        "calificacion": 81,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -308,7 +308,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-02-07",
-        "calificacion": 83,
+        "calificacion": 2.1,
         "asistencia": "Presente"
     },
     {
@@ -316,7 +316,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-18",
-        "calificacion": 82,
+        "calificacion": 4.3,
         "asistencia": "Presente"
     },
     {
@@ -324,7 +324,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-25",
-        "calificacion": 85,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -332,7 +332,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-02-08",
-        "calificacion": 88,
+        "calificacion": 2.9,
         "asistencia": "Presente"
     },
     {
@@ -340,7 +340,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-19",
-        "calificacion": 75,
+        "calificacion": 5.0,
         "asistencia": "Presente"
     },
     {
@@ -348,7 +348,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-26",
-        "calificacion": 77,
+        "calificacion": 4.5,
         "asistencia": "Ausente"
     },
     {
@@ -356,7 +356,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-02-09",
-        "calificacion": 79,
+        "calificacion": 3.6,
         "asistencia": "Presente"
     },
     {
@@ -364,7 +364,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-15",
-        "calificacion": 90,
+        "calificacion": 4.5,
         "asistencia": "Presente"
     },
     {
@@ -372,7 +372,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-22",
-        "calificacion": 92,
+        "calificacion": 4.6,
         "asistencia": "Presente"
     },
     {
@@ -380,7 +380,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-02-05",
-        "calificacion": 94,
+        "calificacion": 4.1,
         "asistencia": "Presente"
     },
     {
@@ -388,7 +388,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-16",
-        "calificacion": 88,
+        "calificacion": 2.9,
         "asistencia": "Presente"
     },
     {
@@ -396,7 +396,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-23",
-        "calificacion": 90,
+        "calificacion": 4.5,
         "asistencia": "Presente"
     },
     {
@@ -404,7 +404,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-02-06",
-        "calificacion": 92,
+        "calificacion": 4.6,
         "asistencia": "Presente"
     },
     {
@@ -412,7 +412,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-17",
-        "calificacion": 92,
+        "calificacion": 4.6,
         "asistencia": "Presente"
     },
     {
@@ -420,7 +420,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-24",
-        "calificacion": 94,
+        "calificacion": 4.1,
         "asistencia": "Presente"
     },
     {
@@ -428,7 +428,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-02-07",
-        "calificacion": 96,
+        "calificacion": 4.3,
         "asistencia": "Presente"
     },
     {
@@ -436,7 +436,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-18",
-        "calificacion": 85,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -444,7 +444,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-25",
-        "calificacion": 87,
+        "calificacion": 3.7,
         "asistencia": "Presente"
     },
     {
@@ -452,7 +452,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-02-08",
-        "calificacion": 89,
+        "calificacion": 3.8,
         "asistencia": "Presente"
     },
     {
@@ -460,7 +460,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-19",
-        "calificacion": 88,
+        "calificacion": 2.9,
         "asistencia": "Presente"
     },
     {
@@ -468,7 +468,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-26",
-        "calificacion": 90,
+        "calificacion": 4.5,
         "asistencia": "Presente"
     },
     {
@@ -476,7 +476,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-02-09",
-        "calificacion": 92,
+        "calificacion": 4.6,
         "asistencia": "Presente"
     },
     {
@@ -484,7 +484,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-15",
-        "calificacion": 82,
+        "calificacion": 4.3,
         "asistencia": "Presente"
     },
     {
@@ -492,7 +492,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-22",
-        "calificacion": 84,
+        "calificacion": 3.9,
         "asistencia": "Presente"
     },
     {
@@ -500,7 +500,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-02-05",
-        "calificacion": 86,
+        "calificacion": 4.0,
         "asistencia": "Presente"
     },
     {
@@ -508,7 +508,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-16",
-        "calificacion": 80,
+        "calificacion": 4.0,
         "asistencia": "Presente"
     },
     {
@@ -516,7 +516,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-23",
-        "calificacion": 82,
+        "calificacion": 4.3,
         "asistencia": "Presente"
     },
     {
@@ -524,7 +524,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-02-06",
-        "calificacion": 84,
+        "calificacion": 3.9,
         "asistencia": "Presente"
     },
     {
@@ -532,7 +532,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-17",
-        "calificacion": 78,
+        "calificacion": 4.4,
         "asistencia": "Ausente"
     },
     {
@@ -540,7 +540,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-24",
-        "calificacion": 80,
+        "calificacion": 4.0,
         "asistencia": "Presente"
     },
     {
@@ -548,7 +548,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-02-07",
-        "calificacion": 82,
+        "calificacion": 4.3,
         "asistencia": "Presente"
     },
     {
@@ -556,7 +556,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-18",
-        "calificacion": 79,
+        "calificacion": 3.6,
         "asistencia": "Presente"
     },
     {
@@ -564,7 +564,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-25",
-        "calificacion": 81,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -572,7 +572,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-02-08",
-        "calificacion": 84,
+        "calificacion": 3.9,
         "asistencia": "Presente"
     },
     {
@@ -580,7 +580,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-19",
-        "calificacion": 75,
+        "calificacion": 5.0,
         "asistencia": "Ausente"
     },
     {
@@ -588,7 +588,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-26",
-        "calificacion": 77,
+        "calificacion": 4.5,
         "asistencia": "Presente"
     },
     {
@@ -596,7 +596,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-02-09",
-        "calificacion": 80,
+        "calificacion": 4.0,
         "asistencia": "Presente"
     },
     {
@@ -604,7 +604,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-15",
-        "calificacion": 89,
+        "calificacion": 3.8,
         "asistencia": "Presente"
     },
     {
@@ -612,7 +612,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-22",
-        "calificacion": 91,
+        "calificacion": 4.2,
         "asistencia": "Presente"
     },
     {
@@ -620,7 +620,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-02-05",
-        "calificacion": 94,
+        "calificacion": 4.1,
         "asistencia": "Presente"
     },
     {
@@ -628,7 +628,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-16",
-        "calificacion": 86,
+        "calificacion": 4.0,
         "asistencia": "Presente"
     },
     {
@@ -636,7 +636,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-23",
-        "calificacion": 88,
+        "calificacion": 2.9,
         "asistencia": "Presente"
     },
     {
@@ -644,7 +644,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-02-06",
-        "calificacion": 90,
+        "calificacion": 4.5,
         "asistencia": "Presente"
     },
     {
@@ -652,7 +652,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-17",
-        "calificacion": 85,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -660,7 +660,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-24",
-        "calificacion": 87,
+        "calificacion": 3.7,
         "asistencia": "Presente"
     },
     {
@@ -668,7 +668,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-02-07",
-        "calificacion": 89,
+        "calificacion": 3.8,
         "asistencia": "Presente"
     },
     {
@@ -676,7 +676,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-18",
-        "calificacion": 88,
+        "calificacion": 2.9,
         "asistencia": "Presente"
     },
     {
@@ -684,7 +684,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-25",
-        "calificacion": 90,
+        "calificacion": 4.5,
         "asistencia": "Presente"
     },
     {
@@ -692,7 +692,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-02-08",
-        "calificacion": 92,
+        "calificacion": 4.6,
         "asistencia": "Presente"
     },
     {
@@ -700,7 +700,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-19",
-        "calificacion": 87,
+        "calificacion": 3.7,
         "asistencia": "Presente"
     },
     {
@@ -708,7 +708,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-26",
-        "calificacion": 89,
+        "calificacion": 3.8,
         "asistencia": "Presente"
     },
     {
@@ -716,7 +716,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-02-09",
-        "calificacion": 91,
+        "calificacion": 4.2,
         "asistencia": "Presente"
     },
     {
@@ -724,7 +724,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-15",
-        "calificacion": 81,
+        "calificacion": 4.7,
         "asistencia": "Ausente"
     },
     {
@@ -732,7 +732,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-22",
-        "calificacion": 83,
+        "calificacion": 2.1,
         "asistencia": "Presente"
     },
     {
@@ -740,7 +740,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-02-05",
-        "calificacion": 85,
+        "calificacion": 4.7,
         "asistencia": "Ausente"
     },
     {
@@ -748,7 +748,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-16",
-        "calificacion": 79,
+        "calificacion": 3.6,
         "asistencia": "Ausente"
     },
     {
@@ -756,7 +756,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-23",
-        "calificacion": 81,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -764,7 +764,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-02-06",
-        "calificacion": 83,
+        "calificacion": 2.1,
         "asistencia": "Ausente"
     },
     {
@@ -772,7 +772,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-17",
-        "calificacion": 77,
+        "calificacion": 4.5,
         "asistencia": "Ausente"
     },
     {
@@ -780,7 +780,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-24",
-        "calificacion": 80,
+        "calificacion": 4.0,
         "asistencia": "Ausente"
     },
     {
@@ -788,7 +788,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-02-07",
-        "calificacion": 82,
+        "calificacion": 4.3,
         "asistencia": "Presente"
     },
     {
@@ -796,7 +796,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-18",
-        "calificacion": 84,
+        "calificacion": 3.9,
         "asistencia": "Presente"
     },
     {
@@ -804,7 +804,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-25",
-        "calificacion": 86,
+        "calificacion": 4.0,
         "asistencia": "Ausente"
     },
     {
@@ -812,7 +812,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-02-08",
-        "calificacion": 88,
+        "calificacion": 2.9,
         "asistencia": "Presente"
     },
     {
@@ -820,7 +820,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-19",
-        "calificacion": 82,
+        "calificacion": 4.3,
         "asistencia": "Ausente"
     },
     {
@@ -828,7 +828,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-26",
-        "calificacion": 84,
+        "calificacion": 3.9,
         "asistencia": "Presente"
     },
     {
@@ -836,7 +836,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-02-09",
-        "calificacion": 86,
+        "calificacion": 4.0,
         "asistencia": "Ausente"
     },
     {
@@ -844,7 +844,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-15",
-        "calificacion": 87,
+        "calificacion": 3.7,
         "asistencia": "Presente"
     },
     {
@@ -852,7 +852,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-22",
-        "calificacion": 89,
+        "calificacion": 3.8,
         "asistencia": "Presente"
     },
     {
@@ -860,7 +860,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-02-05",
-        "calificacion": 91,
+        "calificacion": 4.2,
         "asistencia": "Presente"
     },
     {
@@ -868,7 +868,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-16",
-        "calificacion": 85,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -876,7 +876,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-23",
-        "calificacion": 87,
+        "calificacion": 3.7,
         "asistencia": "Presente"
     },
     {
@@ -884,7 +884,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-02-06",
-        "calificacion": 89,
+        "calificacion": 3.8,
         "asistencia": "Presente"
     },
     {
@@ -892,7 +892,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-17",
-        "calificacion": 88,
+        "calificacion": 2.9,
         "asistencia": "Presente"
     },
     {
@@ -900,7 +900,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-24",
-        "calificacion": 90,
+        "calificacion": 4.5,
         "asistencia": "Presente"
     },
     {
@@ -908,7 +908,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-02-07",
-        "calificacion": 92,
+        "calificacion": 4.6,
         "asistencia": "Presente"
     },
     {
@@ -916,7 +916,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-18",
-        "calificacion": 86,
+        "calificacion": 4.0,
         "asistencia": "Presente"
     },
     {
@@ -924,7 +924,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-25",
-        "calificacion": 88,
+        "calificacion": 2.9,
         "asistencia": "Presente"
     },
     {
@@ -932,7 +932,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-02-08",
-        "calificacion": 90,
+        "calificacion": 4.5,
         "asistencia": "Presente"
     },
     {
@@ -940,7 +940,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-19",
-        "calificacion": 91,
+        "calificacion": 4.2,
         "asistencia": "Presente"
     },
     {
@@ -948,7 +948,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-26",
-        "calificacion": 93,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -956,7 +956,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-02-09",
-        "calificacion": 95,
+        "calificacion": 4.0,
         "asistencia": "Presente"
     },
     {
@@ -964,7 +964,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-15",
-        "calificacion": 83,
+        "calificacion": 2.1,
         "asistencia": "Presente"
     },
     {
@@ -972,7 +972,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-22",
-        "calificacion": 85,
+        "calificacion": 4.7,
         "asistencia": "Ausente"
     },
     {
@@ -980,7 +980,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-02-05",
-        "calificacion": 87,
+        "calificacion": 3.7,
         "asistencia": "Presente"
     },
     {
@@ -988,7 +988,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-16",
-        "calificacion": 83,
+        "calificacion": 2.1,
         "asistencia": "Ausente"
     },
     {
@@ -996,7 +996,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-23",
-        "calificacion": 85,
+        "calificacion": 4.7,
         "asistencia": "Ausente"
     },
     {
@@ -1004,7 +1004,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-02-06",
-        "calificacion": 87,
+        "calificacion": 3.7,
         "asistencia": "Presente"
     },
     {
@@ -1012,7 +1012,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-17",
-        "calificacion": 79,
+        "calificacion": 3.6,
         "asistencia": "Presente"
     },
     {
@@ -1020,7 +1020,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-24",
-        "calificacion": 81,
+        "calificacion": 4.7,
         "asistencia": "Ausente"
     },
     {
@@ -1028,7 +1028,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-02-07",
-        "calificacion": 83,
+        "calificacion": 2.1,
         "asistencia": "Ausente"
     },
     {
@@ -1036,7 +1036,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-18",
-        "calificacion": 80,
+        "calificacion": 4.0,
         "asistencia": "Ausente"
     },
     {
@@ -1044,7 +1044,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-25",
-        "calificacion": 82,
+        "calificacion": 4.3,
         "asistencia": "Presente"
     },
     {
@@ -1052,7 +1052,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-02-08",
-        "calificacion": 84,
+        "calificacion": 3.9,
         "asistencia": "Ausente"
     },
     {
@@ -1060,7 +1060,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-19",
-        "calificacion": 81,
+        "calificacion": 4.7,
         "asistencia": "Ausente"
     },
     {
@@ -1068,7 +1068,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-26",
-        "calificacion": 83,
+        "calificacion": 3.4,
         "asistencia": "Presente"
     },
     {
@@ -1076,7 +1076,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-02-09",
-        "calificacion": 85,
+        "calificacion": 4.7,
         "asistencia": "Ausente"
     },
     {
@@ -1084,7 +1084,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-15",
-        "calificacion": 91,
+        "calificacion": 4.2,
         "asistencia": "Presente"
     },
     {
@@ -1092,7 +1092,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-22",
-        "calificacion": 93,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -1100,7 +1100,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-02-05",
-        "calificacion": 95,
+        "calificacion": 4.0,
         "asistencia": "Presente"
     },
     {
@@ -1108,7 +1108,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-16",
-        "calificacion": 89,
+        "calificacion": 3.8,
         "asistencia": "Presente"
     },
     {
@@ -1116,7 +1116,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-23",
-        "calificacion": 91,
+        "calificacion": 4.2,
         "asistencia": "Presente"
     },
     {
@@ -1124,7 +1124,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-02-06",
-        "calificacion": 93,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -1132,7 +1132,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-17",
-        "calificacion": 88,
+        "calificacion": 2.9,
         "asistencia": "Presente"
     },
     {
@@ -1140,7 +1140,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-24",
-        "calificacion": 90,
+        "calificacion": 4.5,
         "asistencia": "Presente"
     },
     {
@@ -1148,7 +1148,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-02-07",
-        "calificacion": 92,
+        "calificacion": 4.6,
         "asistencia": "Presente"
     },
     {
@@ -1156,7 +1156,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-18",
-        "calificacion": 88,
+        "calificacion": 2.9,
         "asistencia": "Presente"
     },
     {
@@ -1164,7 +1164,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-25",
-        "calificacion": 90,
+        "calificacion": 4.5,
         "asistencia": "Presente"
     },
     {
@@ -1172,7 +1172,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-02-08",
-        "calificacion": 92,
+        "calificacion": 4.6,
         "asistencia": "Presente"
     },
     {
@@ -1180,7 +1180,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-19",
-        "calificacion": 86,
+        "calificacion": 2.5,
         "asistencia": "Presente"
     },
     {
@@ -1188,7 +1188,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-26",
-        "calificacion": 88,
+        "calificacion": 3.5,
         "asistencia": "Presente"
     },
     {
@@ -1196,7 +1196,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-02-09",
-        "calificacion": 90,
+        "calificacion": 4.5,
         "asistencia": "Presente"
     },
     {
@@ -1204,7 +1204,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-15",
-        "calificacion": 80,
+        "calificacion": 2.5,
         "asistencia": "Ausente"
     },
     {
@@ -1212,7 +1212,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-22",
-        "calificacion": 82,
+        "calificacion": 4.3,
         "asistencia": "Ausente"
     },
     {
@@ -1220,7 +1220,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-02-05",
-        "calificacion": 85,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -1228,7 +1228,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-16",
-        "calificacion": 81,
+        "calificacion": 4.7,
         "asistencia": "Ausente"
     },
     {
@@ -1236,7 +1236,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-23",
-        "calificacion": 83,
+        "calificacion": 3.4,
         "asistencia": "Ausente"
     },
     {
@@ -1244,7 +1244,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-02-06",
-        "calificacion": 85,
+        "calificacion": 4.7,
         "asistencia": "Ausente"
     },
     {
@@ -1252,7 +1252,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-17",
-        "calificacion": 78,
+        "calificacion": 4.4,
         "asistencia": "Ausente"
     },
     {
@@ -1260,7 +1260,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-24",
-        "calificacion": 80,
+        "calificacion": 2.5,
         "asistencia": "Ausente"
     },
     {
@@ -1268,7 +1268,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-02-07",
-        "calificacion": 82,
+        "calificacion": 4.3,
         "asistencia": "Ausente"
     },
     {
@@ -1276,7 +1276,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-18",
-        "calificacion": 83,
+        "calificacion": 3.4,
         "asistencia": "Presente"
     },
     {
@@ -1284,7 +1284,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-25",
-        "calificacion": 85,
+        "calificacion": 4.7,
         "asistencia": "Ausente"
     },
     {
@@ -1292,7 +1292,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-02-08",
-        "calificacion": 87,
+        "calificacion": 3.7,
         "asistencia": "Ausente"
     },
     {
@@ -1300,7 +1300,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-19",
-        "calificacion": 79,
+        "calificacion": 3.6,
         "asistencia": "Ausente"
     },
     {
@@ -1308,7 +1308,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-26",
-        "calificacion": 81,
+        "calificacion": 4.7,
         "asistencia": "Ausente"
     },
     {
@@ -1316,7 +1316,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-02-09",
-        "calificacion": 83,
+        "calificacion": 3.4,
         "asistencia": "Presente"
     },
     {
@@ -1324,7 +1324,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-15",
-        "calificacion": 92,
+        "calificacion": 4.6,
         "asistencia": "Presente"
     },
     {
@@ -1332,7 +1332,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-22",
-        "calificacion": 94,
+        "calificacion": 4.1,
         "asistencia": "Presente"
     },
     {
@@ -1340,7 +1340,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-02-05",
-        "calificacion": 96,
+        "calificacion": 4.3,
         "asistencia": "Presente"
     },
     {
@@ -1348,7 +1348,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-16",
-        "calificacion": 90,
+        "calificacion": 4.5,
         "asistencia": "Presente"
     },
     {
@@ -1356,7 +1356,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-23",
-        "calificacion": 92,
+        "calificacion": 4.6,
         "asistencia": "Presente"
     },
     {
@@ -1364,7 +1364,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-02-06",
-        "calificacion": 94,
+        "calificacion": 4.1,
         "asistencia": "Presente"
     },
     {
@@ -1372,7 +1372,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-17",
-        "calificacion": 90,
+        "calificacion": 4.5,
         "asistencia": "Presente"
     },
     {
@@ -1380,7 +1380,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-24",
-        "calificacion": 92,
+        "calificacion": 4.6,
         "asistencia": "Presente"
     },
     {
@@ -1388,7 +1388,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-02-07",
-        "calificacion": 94,
+        "calificacion": 4.1,
         "asistencia": "Presente"
     },
     {
@@ -1396,7 +1396,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-18",
-        "calificacion": 85,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -1404,7 +1404,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-25",
-        "calificacion": 87,
+        "calificacion": 3.7,
         "asistencia": "Presente"
     },
     {
@@ -1412,7 +1412,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-02-08",
-        "calificacion": 89,
+        "calificacion": 3.8,
         "asistencia": "Presente"
     },
     {
@@ -1420,7 +1420,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-19",
-        "calificacion": 88,
+        "calificacion": 3.5,
         "asistencia": "Presente"
     },
     {
@@ -1428,7 +1428,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-26",
-        "calificacion": 90,
+        "calificacion": 4.5,
         "asistencia": "Presente"
     },
     {
@@ -1436,7 +1436,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-02-09",
-        "calificacion": 92,
+        "calificacion": 4.6,
         "asistencia": "Presente"
     },
     {
@@ -1444,7 +1444,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-15",
-        "calificacion": 76,
+        "calificacion": 5.0,
         "asistencia": "Ausente"
     },
     {
@@ -1452,7 +1452,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-22",
-        "calificacion": 78,
+        "calificacion": 4.4,
         "asistencia": "Presente"
     },
     {
@@ -1460,7 +1460,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-02-05",
-        "calificacion": 80,
+        "calificacion": 2.5,
         "asistencia": "Ausente"
     },
     {
@@ -1468,7 +1468,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-16",
-        "calificacion": 77,
+        "calificacion": 4.5,
         "asistencia": "Ausente"
     },
     {
@@ -1476,7 +1476,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-23",
-        "calificacion": 79,
+        "calificacion": 3.6,
         "asistencia": "Ausente"
     },
     {
@@ -1484,7 +1484,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-02-06",
-        "calificacion": 81,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -1492,7 +1492,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-17",
-        "calificacion": 74,
+        "calificacion": 4.7,
         "asistencia": "Ausente"
     },
     {
@@ -1500,7 +1500,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-24",
-        "calificacion": 76,
+        "calificacion": 5.0,
         "asistencia": "Ausente"
     },
     {
@@ -1508,7 +1508,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-02-07",
-        "calificacion": 78,
+        "calificacion": 4.4,
         "asistencia": "Ausente"
     },
     {
@@ -1516,7 +1516,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-18",
-        "calificacion": 80,
+        "calificacion": 2.5,
         "asistencia": "Presente"
     },
     {
@@ -1524,7 +1524,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-25",
-        "calificacion": 82,
+        "calificacion": 4.3,
         "asistencia": "Ausente"
     },
     {
@@ -1532,7 +1532,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-02-08",
-        "calificacion": 84,
+        "calificacion": 3.9,
         "asistencia": "Presente"
     },
     {
@@ -1540,7 +1540,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-19",
-        "calificacion": 78,
+        "calificacion": 4.4,
         "asistencia": "Presente"
     },
     {
@@ -1548,7 +1548,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-26",
-        "calificacion": 80,
+        "calificacion": 2.5,
         "asistencia": "Ausente"
     },
     {
@@ -1556,7 +1556,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-02-09",
-        "calificacion": 82,
+        "calificacion": 4.3,
         "asistencia": "Ausente"
     },
     {
@@ -1564,7 +1564,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-15",
-        "calificacion": 88,
+        "calificacion": 3.5,
         "asistencia": "Presente"
     },
     {
@@ -1572,7 +1572,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-22",
-        "calificacion": 90,
+        "calificacion": 4.5,
         "asistencia": "Presente"
     },
     {
@@ -1580,7 +1580,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-02-05",
-        "calificacion": 92,
+        "calificacion": 4.6,
         "asistencia": "Presente"
     },
     {
@@ -1588,7 +1588,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-16",
-        "calificacion": 89,
+        "calificacion": 3.8,
         "asistencia": "Presente"
     },
     {
@@ -1596,7 +1596,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-23",
-        "calificacion": 91,
+        "calificacion": 4.2,
         "asistencia": "Presente"
     },
     {
@@ -1604,7 +1604,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-02-06",
-        "calificacion": 93,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -1612,7 +1612,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-17",
-        "calificacion": 85,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -1620,7 +1620,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-24",
-        "calificacion": 87,
+        "calificacion": 3.7,
         "asistencia": "Presente"
     },
     {
@@ -1628,7 +1628,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-02-07",
-        "calificacion": 89,
+        "calificacion": 3.8,
         "asistencia": "Presente"
     },
     {
@@ -1636,7 +1636,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-18",
-        "calificacion": 87,
+        "calificacion": 3.7,
         "asistencia": "Presente"
     },
     {
@@ -1644,7 +1644,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-25",
-        "calificacion": 89,
+        "calificacion": 3.8,
         "asistencia": "Presente"
     },
     {
@@ -1652,7 +1652,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-02-08",
-        "calificacion": 91,
+        "calificacion": 4.2,
         "asistencia": "Presente"
     },
     {
@@ -1660,7 +1660,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-19",
-        "calificacion": 86,
+        "calificacion": 2.5,
         "asistencia": "Presente"
     },
     {
@@ -1668,7 +1668,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-26",
-        "calificacion": 88,
+        "calificacion": 3.5,
         "asistencia": "Presente"
     },
     {
@@ -1676,7 +1676,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-02-09",
-        "calificacion": 90,
+        "calificacion": 4.5,
         "asistencia": "Presente"
     },
     {
@@ -1684,7 +1684,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-15",
-        "calificacion": 84,
+        "calificacion": 3.9,
         "asistencia": "Presente"
     },
     {
@@ -1692,7 +1692,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-22",
-        "calificacion": 86,
+        "calificacion": 2.5,
         "asistencia": "Presente"
     },
     {
@@ -1700,7 +1700,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-02-05",
-        "calificacion": 88,
+        "calificacion": 3.5,
         "asistencia": "Presente"
     },
     {
@@ -1708,7 +1708,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-16",
-        "calificacion": 82,
+        "calificacion": 4.3,
         "asistencia": "Presente"
     },
     {
@@ -1716,7 +1716,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-23",
-        "calificacion": 84,
+        "calificacion": 3.9,
         "asistencia": "Presente"
     },
     {
@@ -1724,7 +1724,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-02-06",
-        "calificacion": 86,
+        "calificacion": 2.5,
         "asistencia": "Presente"
     },
     {
@@ -1732,7 +1732,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-17",
-        "calificacion": 80,
+        "calificacion": 2.5,
         "asistencia": "Ausente"
     },
     {
@@ -1740,7 +1740,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-24",
-        "calificacion": 82,
+        "calificacion": 4.3,
         "asistencia": "Presente"
     },
     {
@@ -1748,7 +1748,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-02-07",
-        "calificacion": 84,
+        "calificacion": 3.9,
         "asistencia": "Presente"
     },
     {
@@ -1756,7 +1756,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-18",
-        "calificacion": 81,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -1764,7 +1764,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-25",
-        "calificacion": 83,
+        "calificacion": 3.4,
         "asistencia": "Presente"
     },
     {
@@ -1772,7 +1772,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-02-08",
-        "calificacion": 85,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -1780,7 +1780,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-19",
-        "calificacion": 79,
+        "calificacion": 3.6,
         "asistencia": "Presente"
     },
     {
@@ -1788,7 +1788,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-26",
-        "calificacion": 81,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -1796,7 +1796,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-02-09",
-        "calificacion": 83,
+        "calificacion": 3.4,
         "asistencia": "Presente"
     },
     {
@@ -1804,7 +1804,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-15",
-        "calificacion": 93,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -1812,7 +1812,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-22",
-        "calificacion": 95,
+        "calificacion": 2.5,
         "asistencia": "Presente"
     },
     {
@@ -1820,7 +1820,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-02-05",
-        "calificacion": 97,
+        "calificacion": 4.1,
         "asistencia": "Presente"
     },
     {
@@ -1828,7 +1828,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-16",
-        "calificacion": 88,
+        "calificacion": 3.5,
         "asistencia": "Presente"
     },
     {
@@ -1836,7 +1836,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-23",
-        "calificacion": 90,
+        "calificacion": 4.5,
         "asistencia": "Presente"
     },
     {
@@ -1844,7 +1844,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-02-06",
-        "calificacion": 92,
+        "calificacion": 4.6,
         "asistencia": "Presente"
     },
     {
@@ -1852,7 +1852,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-17",
-        "calificacion": 89,
+        "calificacion": 3.8,
         "asistencia": "Presente"
     },
     {
@@ -1860,7 +1860,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-24",
-        "calificacion": 91,
+        "calificacion": 4.2,
         "asistencia": "Presente"
     },
     {
@@ -1868,7 +1868,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-02-07",
-        "calificacion": 93,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -1876,7 +1876,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-18",
-        "calificacion": 91,
+        "calificacion": 4.2,
         "asistencia": "Presente"
     },
     {
@@ -1884,7 +1884,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-25",
-        "calificacion": 93,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -1892,7 +1892,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-02-08",
-        "calificacion": 95,
+        "calificacion": 2.5,
         "asistencia": "Presente"
     },
     {
@@ -1900,7 +1900,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-19",
-        "calificacion": 90,
+        "calificacion": 4.5,
         "asistencia": "Presente"
     },
     {
@@ -1908,7 +1908,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-26",
-        "calificacion": 92,
+        "calificacion": 4.6,
         "asistencia": "Presente"
     },
     {
@@ -1916,7 +1916,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-02-09",
-        "calificacion": 94,
+        "calificacion": 4.1,
         "asistencia": "Presente"
     },
     {
@@ -1924,7 +1924,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-15",
-        "calificacion": 85,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -1932,7 +1932,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-22",
-        "calificacion": 87,
+        "calificacion": 3.7,
         "asistencia": "Ausente"
     },
     {
@@ -1940,7 +1940,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-02-05",
-        "calificacion": 89,
+        "calificacion": 3.8,
         "asistencia": "Presente"
     },
     {
@@ -1948,7 +1948,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-16",
-        "calificacion": 82,
+        "calificacion": 4.3,
         "asistencia": "Ausente"
     },
     {
@@ -1956,7 +1956,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-23",
-        "calificacion": 84,
+        "calificacion": 3.9,
         "asistencia": "Ausente"
     },
     {
@@ -1964,7 +1964,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-02-06",
-        "calificacion": 86,
+        "calificacion": 2.5,
         "asistencia": "Presente"
     },
     {
@@ -1972,7 +1972,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-17",
-        "calificacion": 83,
+        "calificacion": 3.4,
         "asistencia": "Ausente"
     },
     {
@@ -1980,7 +1980,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-24",
-        "calificacion": 85,
+        "calificacion": 4.7,
         "asistencia": "Ausente"
     },
     {
@@ -1988,7 +1988,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-02-07",
-        "calificacion": 87,
+        "calificacion": 3.7,
         "asistencia": "Ausente"
     },
     {
@@ -1996,7 +1996,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-18",
-        "calificacion": 80,
+        "calificacion": 2.5,
         "asistencia": "Presente"
     },
     {
@@ -2004,7 +2004,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-25",
-        "calificacion": 82,
+        "calificacion": 4.3,
         "asistencia": "Ausente"
     },
     {
@@ -2012,7 +2012,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-02-08",
-        "calificacion": 84,
+        "calificacion": 3.9,
         "asistencia": "Presente"
     },
     {
@@ -2020,7 +2020,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-19",
-        "calificacion": 81,
+        "calificacion": 4.7,
         "asistencia": "Ausente"
     },
     {
@@ -2028,7 +2028,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-26",
-        "calificacion": 83,
+        "calificacion": 3.4,
         "asistencia": "Presente"
     },
     {
@@ -2036,7 +2036,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-02-09",
-        "calificacion": 85,
+        "calificacion": 4.7,
         "asistencia": "Ausente"
     },
     {
@@ -2044,7 +2044,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-15",
-        "calificacion": 84,
+        "calificacion": 3.9,
         "asistencia": "Presente"
     },
     {
@@ -2052,7 +2052,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-22",
-        "calificacion": 86,
+        "calificacion": 2.5,
         "asistencia": "Presente"
     },
     {
@@ -2060,7 +2060,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-02-05",
-        "calificacion": 88,
+        "calificacion": 3.5,
         "asistencia": "Presente"
     },
     {
@@ -2068,7 +2068,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-16",
-        "calificacion": 85,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -2076,7 +2076,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-23",
-        "calificacion": 87,
+        "calificacion": 3.7,
         "asistencia": "Presente"
     },
     {
@@ -2084,7 +2084,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-02-06",
-        "calificacion": 89,
+        "calificacion": 3.8,
         "asistencia": "Presente"
     },
     {
@@ -2092,7 +2092,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-17",
-        "calificacion": 83,
+        "calificacion": 2.1,
         "asistencia": "Presente"
     },
     {
@@ -2100,7 +2100,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-24",
-        "calificacion": 85,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -2108,7 +2108,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-02-07",
-        "calificacion": 87,
+        "calificacion": 3.7,
         "asistencia": "Presente"
     },
     {
@@ -2116,7 +2116,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-18",
-        "calificacion": 84,
+        "calificacion": 3.9,
         "asistencia": "Presente"
     },
     {
@@ -2124,7 +2124,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-25",
-        "calificacion": 86,
+        "calificacion": 4.0,
         "asistencia": "Presente"
     },
     {
@@ -2132,7 +2132,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-02-08",
-        "calificacion": 88,
+        "calificacion": 3.5,
         "asistencia": "Presente"
     },
     {
@@ -2140,7 +2140,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-19",
-        "calificacion": 87,
+        "calificacion": 3.7,
         "asistencia": "Presente"
     },
     {
@@ -2148,7 +2148,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-26",
-        "calificacion": 89,
+        "calificacion": 3.8,
         "asistencia": "Presente"
     },
     {
@@ -2156,7 +2156,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-02-09",
-        "calificacion": 91,
+        "calificacion": 4.2,
         "asistencia": "Presente"
     },
     {
@@ -2164,7 +2164,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-15",
-        "calificacion": 79,
+        "calificacion": 3.6,
         "asistencia": "Ausente"
     },
     {
@@ -2172,7 +2172,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-22",
-        "calificacion": 81,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -2180,7 +2180,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-02-05",
-        "calificacion": 83,
+        "calificacion": 2.1,
         "asistencia": "Ausente"
     },
     {
@@ -2188,7 +2188,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-16",
-        "calificacion": 77,
+        "calificacion": 4.5,
         "asistencia": "Ausente"
     },
     {
@@ -2196,7 +2196,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-23",
-        "calificacion": 79,
+        "calificacion": 3.6,
         "asistencia": "Ausente"
     },
     {
@@ -2204,7 +2204,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-02-06",
-        "calificacion": 81,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -2212,7 +2212,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-17",
-        "calificacion": 75,
+        "calificacion": 5.0,
         "asistencia": "Ausente"
     },
     {
@@ -2220,7 +2220,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-24",
-        "calificacion": 77,
+        "calificacion": 4.5,
         "asistencia": "Ausente"
     },
     {
@@ -2228,7 +2228,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-02-07",
-        "calificacion": 79,
+        "calificacion": 3.6,
         "asistencia": "Presente"
     },
     {
@@ -2236,7 +2236,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-18",
-        "calificacion": 82,
+        "calificacion": 4.3,
         "asistencia": "Presente"
     },
     {
@@ -2244,7 +2244,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-25",
-        "calificacion": 84,
+        "calificacion": 3.9,
         "asistencia": "Ausente"
     },
     {
@@ -2252,7 +2252,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-02-08",
-        "calificacion": 86,
+        "calificacion": 4.0,
         "asistencia": "Presente"
     },
     {
@@ -2260,7 +2260,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-19",
-        "calificacion": 80,
+        "calificacion": 4.0,
         "asistencia": "Ausente"
     },
     {
@@ -2268,7 +2268,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-26",
-        "calificacion": 82,
+        "calificacion": 4.3,
         "asistencia": "Presente"
     },
     {
@@ -2276,7 +2276,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-02-09",
-        "calificacion": 84,
+        "calificacion": 3.9,
         "asistencia": "Ausente"
     },
     {
@@ -2284,7 +2284,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-15",
-        "calificacion": 94,
+        "calificacion": 4.1,
         "asistencia": "Presente"
     },
     {
@@ -2292,7 +2292,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-01-22",
-        "calificacion": 96,
+        "calificacion": 4.3,
         "asistencia": "Presente"
     },
     {
@@ -2300,7 +2300,7 @@
         "materia": "Matemáticas",
         "profesor": "Dr. García",
         "fecha": "2024-02-05",
-        "calificacion": 98,
+        "calificacion": 4.9,
         "asistencia": "Presente"
     },
     {
@@ -2308,7 +2308,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-16",
-        "calificacion": 91,
+        "calificacion": 4.2,
         "asistencia": "Presente"
     },
     {
@@ -2316,7 +2316,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-01-23",
-        "calificacion": 93,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -2324,7 +2324,7 @@
         "materia": "Física",
         "profesor": "Ing. López",
         "fecha": "2024-02-06",
-        "calificacion": 95,
+        "calificacion": 4.0,
         "asistencia": "Presente"
     },
     {
@@ -2332,7 +2332,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-17",
-        "calificacion": 92,
+        "calificacion": 4.6,
         "asistencia": "Presente"
     },
     {
@@ -2340,7 +2340,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-01-24",
-        "calificacion": 94,
+        "calificacion": 4.1,
         "asistencia": "Presente"
     },
     {
@@ -2348,7 +2348,7 @@
         "materia": "Química",
         "profesor": "Dra. Martínez",
         "fecha": "2024-02-07",
-        "calificacion": 96,
+        "calificacion": 4.3,
         "asistencia": "Presente"
     },
     {
@@ -2356,7 +2356,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-18",
-        "calificacion": 90,
+        "calificacion": 4.5,
         "asistencia": "Presente"
     },
     {
@@ -2364,7 +2364,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-01-25",
-        "calificacion": 92,
+        "calificacion": 4.6,
         "asistencia": "Presente"
     },
     {
@@ -2372,7 +2372,7 @@
         "materia": "Historia",
         "profesor": "Prof. Rodríguez",
         "fecha": "2024-02-08",
-        "calificacion": 94,
+        "calificacion": 4.1,
         "asistencia": "Presente"
     },
     {
@@ -2380,7 +2380,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-19",
-        "calificacion": 93,
+        "calificacion": 4.7,
         "asistencia": "Presente"
     },
     {
@@ -2388,7 +2388,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-01-26",
-        "calificacion": 95,
+        "calificacion": 4.0,
         "asistencia": "Presente"
     },
     {
@@ -2396,7 +2396,7 @@
         "materia": "Inglés",
         "profesor": "Prof. Thompson",
         "fecha": "2024-02-09",
-        "calificacion": 97,
+        "calificacion": 4.8,
         "asistencia": "Presente"
     }
 ]

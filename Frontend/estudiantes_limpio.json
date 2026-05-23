@@ -1,0 +1,2402 @@
+[
+    {
+        "estudiante": "Juan Pérez",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-15",
+        "calificacion": 85,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Juan Pérez",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-22",
+        "calificacion": 88,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Juan Pérez",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-02-05",
+        "calificacion": 92,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Juan Pérez",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-16",
+        "calificacion": 78,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Juan Pérez",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-23",
+        "calificacion": 81,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Juan Pérez",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-02-06",
+        "calificacion": 79,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Juan Pérez",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-17",
+        "calificacion": 82,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Juan Pérez",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-24",
+        "calificacion": 84,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Juan Pérez",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-02-07",
+        "calificacion": 86,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Juan Pérez",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-18",
+        "calificacion": 88,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Juan Pérez",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-25",
+        "calificacion": 90,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Juan Pérez",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-02-08",
+        "calificacion": 92,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Juan Pérez",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-19",
+        "calificacion": 80,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Juan Pérez",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-26",
+        "calificacion": 82,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Juan Pérez",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-02-09",
+        "calificacion": 84,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "María García",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-15",
+        "calificacion": 95,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "María García",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-22",
+        "calificacion": 93,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "María García",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-02-05",
+        "calificacion": 96,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "María García",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-16",
+        "calificacion": 91,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "María García",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-23",
+        "calificacion": 93,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "María García",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-02-06",
+        "calificacion": 95,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "María García",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-17",
+        "calificacion": 87,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "María García",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-24",
+        "calificacion": 89,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "María García",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-02-07",
+        "calificacion": 91,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "María García",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-18",
+        "calificacion": 89,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "María García",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-25",
+        "calificacion": 91,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "María García",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-02-08",
+        "calificacion": 93,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "María García",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-19",
+        "calificacion": 92,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "María García",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-26",
+        "calificacion": 94,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "María García",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-02-09",
+        "calificacion": 96,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Carlos López",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-15",
+        "calificacion": 76,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Carlos López",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-22",
+        "calificacion": 78,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Carlos López",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-02-05",
+        "calificacion": 80,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Carlos López",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-16",
+        "calificacion": 76,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Carlos López",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-23",
+        "calificacion": 74,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Carlos López",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-02-06",
+        "calificacion": 80,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Carlos López",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-17",
+        "calificacion": 79,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Carlos López",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-24",
+        "calificacion": 81,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Carlos López",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-02-07",
+        "calificacion": 83,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Carlos López",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-18",
+        "calificacion": 82,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Carlos López",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-25",
+        "calificacion": 85,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Carlos López",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-02-08",
+        "calificacion": 88,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Carlos López",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-19",
+        "calificacion": 75,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Carlos López",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-26",
+        "calificacion": 77,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Carlos López",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-02-09",
+        "calificacion": 79,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Ana Martínez",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-15",
+        "calificacion": 90,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Ana Martínez",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-22",
+        "calificacion": 92,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Ana Martínez",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-02-05",
+        "calificacion": 94,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Ana Martínez",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-16",
+        "calificacion": 88,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Ana Martínez",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-23",
+        "calificacion": 90,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Ana Martínez",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-02-06",
+        "calificacion": 92,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Ana Martínez",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-17",
+        "calificacion": 92,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Ana Martínez",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-24",
+        "calificacion": 94,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Ana Martínez",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-02-07",
+        "calificacion": 96,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Ana Martínez",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-18",
+        "calificacion": 85,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Ana Martínez",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-25",
+        "calificacion": 87,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Ana Martínez",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-02-08",
+        "calificacion": 89,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Ana Martínez",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-19",
+        "calificacion": 88,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Ana Martínez",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-26",
+        "calificacion": 90,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Ana Martínez",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-02-09",
+        "calificacion": 92,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Pedro Sánchez",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-15",
+        "calificacion": 82,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Pedro Sánchez",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-22",
+        "calificacion": 84,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Pedro Sánchez",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-02-05",
+        "calificacion": 86,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Pedro Sánchez",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-16",
+        "calificacion": 80,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Pedro Sánchez",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-23",
+        "calificacion": 82,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Pedro Sánchez",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-02-06",
+        "calificacion": 84,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Pedro Sánchez",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-17",
+        "calificacion": 78,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Pedro Sánchez",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-24",
+        "calificacion": 80,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Pedro Sánchez",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-02-07",
+        "calificacion": 82,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Pedro Sánchez",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-18",
+        "calificacion": 79,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Pedro Sánchez",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-25",
+        "calificacion": 81,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Pedro Sánchez",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-02-08",
+        "calificacion": 84,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Pedro Sánchez",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-19",
+        "calificacion": 75,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Pedro Sánchez",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-26",
+        "calificacion": 77,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Pedro Sánchez",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-02-09",
+        "calificacion": 80,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Sofia Rodríguez",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-15",
+        "calificacion": 89,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Sofia Rodríguez",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-22",
+        "calificacion": 91,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Sofia Rodríguez",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-02-05",
+        "calificacion": 94,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Sofia Rodríguez",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-16",
+        "calificacion": 86,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Sofia Rodríguez",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-23",
+        "calificacion": 88,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Sofia Rodríguez",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-02-06",
+        "calificacion": 90,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Sofia Rodríguez",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-17",
+        "calificacion": 85,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Sofia Rodríguez",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-24",
+        "calificacion": 87,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Sofia Rodríguez",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-02-07",
+        "calificacion": 89,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Sofia Rodríguez",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-18",
+        "calificacion": 88,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Sofia Rodríguez",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-25",
+        "calificacion": 90,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Sofia Rodríguez",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-02-08",
+        "calificacion": 92,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Sofia Rodríguez",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-19",
+        "calificacion": 87,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Sofia Rodríguez",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-26",
+        "calificacion": 89,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Sofia Rodríguez",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-02-09",
+        "calificacion": 91,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Miguel Gómez",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-15",
+        "calificacion": 81,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Miguel Gómez",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-22",
+        "calificacion": 83,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Miguel Gómez",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-02-05",
+        "calificacion": 85,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Miguel Gómez",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-16",
+        "calificacion": 79,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Miguel Gómez",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-23",
+        "calificacion": 81,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Miguel Gómez",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-02-06",
+        "calificacion": 83,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Miguel Gómez",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-17",
+        "calificacion": 77,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Miguel Gómez",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-24",
+        "calificacion": 80,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Miguel Gómez",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-02-07",
+        "calificacion": 82,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Miguel Gómez",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-18",
+        "calificacion": 84,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Miguel Gómez",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-25",
+        "calificacion": 86,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Miguel Gómez",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-02-08",
+        "calificacion": 88,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Miguel Gómez",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-19",
+        "calificacion": 82,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Miguel Gómez",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-26",
+        "calificacion": 84,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Miguel Gómez",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-02-09",
+        "calificacion": 86,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Lucia Fernández",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-15",
+        "calificacion": 87,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Lucia Fernández",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-22",
+        "calificacion": 89,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Lucia Fernández",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-02-05",
+        "calificacion": 91,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Lucia Fernández",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-16",
+        "calificacion": 85,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Lucia Fernández",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-23",
+        "calificacion": 87,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Lucia Fernández",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-02-06",
+        "calificacion": 89,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Lucia Fernández",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-17",
+        "calificacion": 88,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Lucia Fernández",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-24",
+        "calificacion": 90,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Lucia Fernández",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-02-07",
+        "calificacion": 92,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Lucia Fernández",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-18",
+        "calificacion": 86,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Lucia Fernández",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-25",
+        "calificacion": 88,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Lucia Fernández",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-02-08",
+        "calificacion": 90,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Lucia Fernández",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-19",
+        "calificacion": 91,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Lucia Fernández",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-26",
+        "calificacion": 93,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Lucia Fernández",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-02-09",
+        "calificacion": 95,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Diego Morales",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-15",
+        "calificacion": 83,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Diego Morales",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-22",
+        "calificacion": 85,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Diego Morales",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-02-05",
+        "calificacion": 87,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Diego Morales",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-16",
+        "calificacion": 83,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Diego Morales",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-23",
+        "calificacion": 85,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Diego Morales",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-02-06",
+        "calificacion": 87,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Diego Morales",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-17",
+        "calificacion": 79,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Diego Morales",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-24",
+        "calificacion": 81,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Diego Morales",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-02-07",
+        "calificacion": 83,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Diego Morales",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-18",
+        "calificacion": 80,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Diego Morales",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-25",
+        "calificacion": 82,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Diego Morales",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-02-08",
+        "calificacion": 84,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Diego Morales",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-19",
+        "calificacion": 81,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Diego Morales",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-26",
+        "calificacion": 83,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Diego Morales",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-02-09",
+        "calificacion": 85,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Isabel Castillo",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-15",
+        "calificacion": 91,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Isabel Castillo",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-22",
+        "calificacion": 93,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Isabel Castillo",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-02-05",
+        "calificacion": 95,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Isabel Castillo",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-16",
+        "calificacion": 89,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Isabel Castillo",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-23",
+        "calificacion": 91,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Isabel Castillo",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-02-06",
+        "calificacion": 93,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Isabel Castillo",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-17",
+        "calificacion": 88,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Isabel Castillo",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-24",
+        "calificacion": 90,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Isabel Castillo",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-02-07",
+        "calificacion": 92,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Isabel Castillo",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-18",
+        "calificacion": 88,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Isabel Castillo",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-25",
+        "calificacion": 90,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Isabel Castillo",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-02-08",
+        "calificacion": 92,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Isabel Castillo",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-19",
+        "calificacion": 86,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Isabel Castillo",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-26",
+        "calificacion": 88,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Isabel Castillo",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-02-09",
+        "calificacion": 90,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Fernando Jiménez",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-15",
+        "calificacion": 80,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Fernando Jiménez",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-22",
+        "calificacion": 82,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Fernando Jiménez",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-02-05",
+        "calificacion": 85,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Fernando Jiménez",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-16",
+        "calificacion": 81,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Fernando Jiménez",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-23",
+        "calificacion": 83,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Fernando Jiménez",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-02-06",
+        "calificacion": 85,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Fernando Jiménez",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-17",
+        "calificacion": 78,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Fernando Jiménez",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-24",
+        "calificacion": 80,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Fernando Jiménez",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-02-07",
+        "calificacion": 82,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Fernando Jiménez",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-18",
+        "calificacion": 83,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Fernando Jiménez",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-25",
+        "calificacion": 85,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Fernando Jiménez",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-02-08",
+        "calificacion": 87,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Fernando Jiménez",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-19",
+        "calificacion": 79,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Fernando Jiménez",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-26",
+        "calificacion": 81,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Fernando Jiménez",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-02-09",
+        "calificacion": 83,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Camila Ortiz",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-15",
+        "calificacion": 92,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Camila Ortiz",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-22",
+        "calificacion": 94,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Camila Ortiz",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-02-05",
+        "calificacion": 96,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Camila Ortiz",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-16",
+        "calificacion": 90,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Camila Ortiz",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-23",
+        "calificacion": 92,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Camila Ortiz",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-02-06",
+        "calificacion": 94,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Camila Ortiz",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-17",
+        "calificacion": 90,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Camila Ortiz",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-24",
+        "calificacion": 92,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Camila Ortiz",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-02-07",
+        "calificacion": 94,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Camila Ortiz",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-18",
+        "calificacion": 85,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Camila Ortiz",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-25",
+        "calificacion": 87,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Camila Ortiz",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-02-08",
+        "calificacion": 89,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Camila Ortiz",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-19",
+        "calificacion": 88,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Camila Ortiz",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-26",
+        "calificacion": 90,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Camila Ortiz",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-02-09",
+        "calificacion": 92,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Roberto Díaz",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-15",
+        "calificacion": 76,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Roberto Díaz",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-22",
+        "calificacion": 78,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Roberto Díaz",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-02-05",
+        "calificacion": 80,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Roberto Díaz",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-16",
+        "calificacion": 77,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Roberto Díaz",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-23",
+        "calificacion": 79,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Roberto Díaz",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-02-06",
+        "calificacion": 81,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Roberto Díaz",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-17",
+        "calificacion": 74,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Roberto Díaz",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-24",
+        "calificacion": 76,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Roberto Díaz",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-02-07",
+        "calificacion": 78,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Roberto Díaz",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-18",
+        "calificacion": 80,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Roberto Díaz",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-25",
+        "calificacion": 82,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Roberto Díaz",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-02-08",
+        "calificacion": 84,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Roberto Díaz",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-19",
+        "calificacion": 78,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Roberto Díaz",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-26",
+        "calificacion": 80,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Roberto Díaz",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-02-09",
+        "calificacion": 82,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Valentina Ruiz",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-15",
+        "calificacion": 88,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Valentina Ruiz",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-22",
+        "calificacion": 90,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Valentina Ruiz",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-02-05",
+        "calificacion": 92,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Valentina Ruiz",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-16",
+        "calificacion": 89,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Valentina Ruiz",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-23",
+        "calificacion": 91,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Valentina Ruiz",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-02-06",
+        "calificacion": 93,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Valentina Ruiz",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-17",
+        "calificacion": 85,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Valentina Ruiz",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-24",
+        "calificacion": 87,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Valentina Ruiz",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-02-07",
+        "calificacion": 89,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Valentina Ruiz",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-18",
+        "calificacion": 87,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Valentina Ruiz",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-25",
+        "calificacion": 89,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Valentina Ruiz",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-02-08",
+        "calificacion": 91,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Valentina Ruiz",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-19",
+        "calificacion": 86,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Valentina Ruiz",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-26",
+        "calificacion": 88,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Valentina Ruiz",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-02-09",
+        "calificacion": 90,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Alejandro Vega",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-15",
+        "calificacion": 84,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Alejandro Vega",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-22",
+        "calificacion": 86,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Alejandro Vega",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-02-05",
+        "calificacion": 88,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Alejandro Vega",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-16",
+        "calificacion": 82,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Alejandro Vega",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-23",
+        "calificacion": 84,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Alejandro Vega",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-02-06",
+        "calificacion": 86,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Alejandro Vega",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-17",
+        "calificacion": 80,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Alejandro Vega",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-24",
+        "calificacion": 82,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Alejandro Vega",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-02-07",
+        "calificacion": 84,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Alejandro Vega",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-18",
+        "calificacion": 81,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Alejandro Vega",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-25",
+        "calificacion": 83,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Alejandro Vega",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-02-08",
+        "calificacion": 85,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Alejandro Vega",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-19",
+        "calificacion": 79,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Alejandro Vega",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-26",
+        "calificacion": 81,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Alejandro Vega",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-02-09",
+        "calificacion": 83,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Martina López",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-15",
+        "calificacion": 93,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Martina López",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-22",
+        "calificacion": 95,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Martina López",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-02-05",
+        "calificacion": 97,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Martina López",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-16",
+        "calificacion": 88,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Martina López",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-23",
+        "calificacion": 90,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Martina López",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-02-06",
+        "calificacion": 92,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Martina López",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-17",
+        "calificacion": 89,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Martina López",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-24",
+        "calificacion": 91,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Martina López",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-02-07",
+        "calificacion": 93,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Martina López",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-18",
+        "calificacion": 91,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Martina López",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-25",
+        "calificacion": 93,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Martina López",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-02-08",
+        "calificacion": 95,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Martina López",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-19",
+        "calificacion": 90,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Martina López",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-26",
+        "calificacion": 92,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Martina López",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-02-09",
+        "calificacion": 94,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Lucas Álvarez",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-15",
+        "calificacion": 85,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Lucas Álvarez",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-22",
+        "calificacion": 87,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Lucas Álvarez",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-02-05",
+        "calificacion": 89,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Lucas Álvarez",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-16",
+        "calificacion": 82,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Lucas Álvarez",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-23",
+        "calificacion": 84,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Lucas Álvarez",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-02-06",
+        "calificacion": 86,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Lucas Álvarez",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-17",
+        "calificacion": 83,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Lucas Álvarez",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-24",
+        "calificacion": 85,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Lucas Álvarez",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-02-07",
+        "calificacion": 87,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Lucas Álvarez",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-18",
+        "calificacion": 80,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Lucas Álvarez",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-25",
+        "calificacion": 82,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Lucas Álvarez",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-02-08",
+        "calificacion": 84,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Lucas Álvarez",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-19",
+        "calificacion": 81,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Lucas Álvarez",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-26",
+        "calificacion": 83,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Lucas Álvarez",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-02-09",
+        "calificacion": 85,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Evelyn Moreno",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-15",
+        "calificacion": 84,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Evelyn Moreno",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-22",
+        "calificacion": 86,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Evelyn Moreno",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-02-05",
+        "calificacion": 88,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Evelyn Moreno",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-16",
+        "calificacion": 85,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Evelyn Moreno",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-23",
+        "calificacion": 87,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Evelyn Moreno",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-02-06",
+        "calificacion": 89,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Evelyn Moreno",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-17",
+        "calificacion": 83,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Evelyn Moreno",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-24",
+        "calificacion": 85,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Evelyn Moreno",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-02-07",
+        "calificacion": 87,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Evelyn Moreno",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-18",
+        "calificacion": 84,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Evelyn Moreno",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-25",
+        "calificacion": 86,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Evelyn Moreno",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-02-08",
+        "calificacion": 88,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Evelyn Moreno",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-19",
+        "calificacion": 87,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Evelyn Moreno",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-26",
+        "calificacion": 89,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Evelyn Moreno",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-02-09",
+        "calificacion": 91,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Ramón Castro",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-15",
+        "calificacion": 79,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Ramón Castro",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-22",
+        "calificacion": 81,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Ramón Castro",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-02-05",
+        "calificacion": 83,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Ramón Castro",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-16",
+        "calificacion": 77,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Ramón Castro",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-23",
+        "calificacion": 79,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Ramón Castro",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-02-06",
+        "calificacion": 81,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Ramón Castro",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-17",
+        "calificacion": 75,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Ramón Castro",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-24",
+        "calificacion": 77,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Ramón Castro",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-02-07",
+        "calificacion": 79,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Ramón Castro",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-18",
+        "calificacion": 82,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Ramón Castro",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-25",
+        "calificacion": 84,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Ramón Castro",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-02-08",
+        "calificacion": 86,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Ramón Castro",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-19",
+        "calificacion": 80,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Ramón Castro",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-26",
+        "calificacion": 82,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Ramón Castro",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-02-09",
+        "calificacion": 84,
+        "asistencia": "Ausente"
+    },
+    {
+        "estudiante": "Gabriela Sanz",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-15",
+        "calificacion": 94,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Gabriela Sanz",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-01-22",
+        "calificacion": 96,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Gabriela Sanz",
+        "materia": "Matemáticas",
+        "profesor": "Dr. García",
+        "fecha": "2024-02-05",
+        "calificacion": 98,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Gabriela Sanz",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-16",
+        "calificacion": 91,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Gabriela Sanz",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-01-23",
+        "calificacion": 93,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Gabriela Sanz",
+        "materia": "Física",
+        "profesor": "Ing. López",
+        "fecha": "2024-02-06",
+        "calificacion": 95,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Gabriela Sanz",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-17",
+        "calificacion": 92,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Gabriela Sanz",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-01-24",
+        "calificacion": 94,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Gabriela Sanz",
+        "materia": "Química",
+        "profesor": "Dra. Martínez",
+        "fecha": "2024-02-07",
+        "calificacion": 96,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Gabriela Sanz",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-18",
+        "calificacion": 90,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Gabriela Sanz",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-01-25",
+        "calificacion": 92,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Gabriela Sanz",
+        "materia": "Historia",
+        "profesor": "Prof. Rodríguez",
+        "fecha": "2024-02-08",
+        "calificacion": 94,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Gabriela Sanz",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-19",
+        "calificacion": 93,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Gabriela Sanz",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-01-26",
+        "calificacion": 95,
+        "asistencia": "Presente"
+    },
+    {
+        "estudiante": "Gabriela Sanz",
+        "materia": "Inglés",
+        "profesor": "Prof. Thompson",
+        "fecha": "2024-02-09",
+        "calificacion": 97,
+        "asistencia": "Presente"
+    }
+]

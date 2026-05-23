@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crono-Clase | Visualización de Datos de Estudiantes</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <!-- HEADER -->
+        <header class="header">
+            <div class="header-content">
+                <h1>📚 Crono-Clase</h1>
+                <p>Sistema de Visualización de Datos Académicos</p>
+            </div>
+        </header>
+
+        <!-- CONTROLES DE FILTRO -->
+        <div class="controls">
+            <div class="filter-group">
+                <label for="filterEstudiante">🎓 Filtrar por Estudiante:</label>
+                <select id="filterEstudiante">
+                    <option value="">-- Todos los Estudiantes --</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="filterMateria">📖 Filtrar por Materia:</label>
+                <select id="filterMateria">
+                    <option value="">-- Todas las Materias --</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="filterProfesor">👨‍🏫 Filtrar por Profesor:</label>
+                <select id="filterProfesor">
+                    <option value="">-- Todos los Profesores --</option>
+                </select>
+            </div>
+            <button id="btnReset" class="btn-reset">🔄 Reiniciar Filtros</button>
+        </div>
+
+        <!-- ESTADÍSTICAS GENERALES -->
+        <div class="stats-grid">
+            <div class="stat-card">
+                <h3>Estudiantes</h3>
+                <p class="stat-number" id="statEstudiantes">0</p>
+            </div>
+            <div class="stat-card">
+                <h3>Materias</h3>
+                <p class="stat-number" id="statMaterias">0</p>
+            </div>
+            <div class="stat-card">
+                <h3>Profesores</h3>
+                <p class="stat-number" id="statProfesores">0</p>
+            </div>
+            <div class="stat-card">
+                <h3>Promedio General</h3>
+                <p class="stat-number" id="statPromedio">0%</p>
+            </div>
+        </div>
+
+        <!-- GRÁFICAS -->
+        <div class="charts-grid">
+            <!-- Gráfica 1: Calificaciones por Estudiante -->
+            <div class="chart-container">
+                <h2>📊 Calificaciones por Estudiante</h2>
+                <canvas id="chartEstudiantes"></canvas>
+            </div>
+
+            <!-- Gráfica 2: Calificaciones por Materia -->
+            <div class="chart-container">
+                <h2>📚 Promedio por Materia</h2>
+                <canvas id="chartMaterias"></canvas>
+            </div>
+
+            <!-- Gráfica 3: Calificaciones por Profesor -->
+            <div class="chart-container">
+                <h2>👨‍🏫 Promedio por Profesor</h2>
+                <canvas id="chartProfesores"></canvas>
+            </div>
+
+            <!-- Gráfica 4: Evolución Temporal -->
+            <div class="chart-container chart-full">
+                <h2>📈 Evolución de Calificaciones en el Tiempo</h2>
+                <canvas id="chartEvolucion"></canvas>
+            </div>
+
+            <!-- Gráfica 5: Distribución de Calificaciones -->
+            <div class="chart-container">
+                <h2>📉 Distribución de Calificaciones</h2>
+                <canvas id="chartDistribucion"></canvas>
+            </div>
+
+            <!-- Gráfica 6: Asistencia -->
+            <div class="chart-container">
+                <h2>✅ Tasa de Asistencia por Estudiante</h2>
+                <canvas id="chartAsistencia"></canvas>
+            </div>
+        </div>
+
+        <!-- TABLA DE DATOS -->
+        <div class="table-container">
+            <h2>📋 Tabla de Datos Completa</h2>
+            <div class="table-scroll">
+                <table id="datatable">
+                    <thead>
+                        <tr>
+                            <th>Estudiante</th>
+                            <th>Materia</th>
+                            <th>Profesor</th>
+                            <th>Fecha</th>
+                            <th>Calificación</th>
+                            <th>Asistencia</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <p>&copy; 2024 Crono-Clase | Sistema de Gestión Académica</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

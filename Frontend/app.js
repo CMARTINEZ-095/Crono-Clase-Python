@@ -5,8 +5,8 @@ let charts = {};
 
 // Colores para las gráficas
 const colors = [
-    '#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF',
-    '#FF9F40', '#FF6384', '#C9CBCF', '#4BC0C0', '#FF6384'
+    '#493d9e', '#7868d8', '#FFF2AF', '#DAD2FF', '#B2A5FF',
+    '#5A4DC1', '#FFCE56', '#8E7CFF', '#5F4DBB', '#FFF7B5'
 ];
 
 // Cargar datos al inicio
@@ -157,6 +157,7 @@ function crearGraficas() {
     crearGraficaEstudiantes();
     crearGraficaMaterias();
     crearGraficaProfesores();
+    crearGraficaNotasDefinitivas();
     crearGraficaEvolucion();
     crearGraficaDistribucion();
     crearGraficaAsistencia();
@@ -172,17 +173,19 @@ function crearGraficaEstudiantes() {
 
     const grupos = agruparPor('estudiante');
 
-    const labels = Object.keys(grupos).sort();
-
-    const calificaciones = labels.map(est => {
-
-        return (
-            grupos[est].reduce(
+    const ranking = Object.entries(grupos)
+        .map(([estudiante, registros]) => ({
+            estudiante,
+            promedio: registros.reduce(
                 (sum, d) => sum + d.calificacion,
                 0
-            ) / grupos[est].length
-        ).toFixed(1);
-    });
+            ) / registros.length
+        }))
+        .sort((a, b) => b.promedio - a.promedio);
+
+    const labels = ranking.map(item => item.estudiante);
+
+    const calificaciones = ranking.map(item => item.promedio.toFixed(1));
 
     if (charts.chartEstudiantes) {
         charts.chartEstudiantes.destroy();
@@ -202,13 +205,17 @@ function crearGraficaEstudiantes() {
         },
 
         options: {
+            indexAxis: 'y',
             responsive: true,
+            plugins: {
+                legend: {
+                    display: false
+                }
+            },
 
             scales: {
-                y: {
+                x: {
                     beginAtZero: true,
-
-                    // CAMBIO IMPORTANTE
                     max: 5
                 }
             }
@@ -292,7 +299,7 @@ function crearGraficaProfesores() {
                 label: 'Promedio',
                 data: promedios,
                 borderColor: colors[4],
-                backgroundColor: 'rgba(153,102,255,0.2)'
+                backgroundColor: 'rgba(178,165,255,0.25)'
             }]
         },
 
@@ -302,6 +309,58 @@ function crearGraficaProfesores() {
                     beginAtZero: true,
 
                     // CAMBIO IMPORTANTE
+                    max: 5
+                }
+            }
+        }
+    });
+}
+
+// =====================================
+
+function crearGraficaNotasDefinitivas() {
+
+    const ctx =
+        document.getElementById('chartNotasDefinitivas')
+        .getContext('2d');
+
+    const grupos = agruparPor('estudiante');
+
+    const labels = Object.keys(grupos).sort();
+
+    const notasDefinitivas = labels.map(est => {
+
+        return (
+            grupos[est].reduce(
+                (sum, d) => sum + d.calificacion,
+                0
+            ) / grupos[est].length
+        ).toFixed(1);
+    });
+
+    if (charts.chartNotasDefinitivas) {
+        charts.chartNotasDefinitivas.destroy();
+    }
+
+    charts.chartNotasDefinitivas = new Chart(ctx, {
+
+        type: 'bar',
+
+        data: {
+            labels,
+            datasets: [{
+                label: 'Nota Definitiva',
+                data: notasDefinitivas,
+                backgroundColor: colors[2]
+            }]
+        },
+
+        options: {
+            responsive: true,
+
+            scales: {
+                y: {
+                    beginAtZero: true,
                     max: 5
                 }
             }
@@ -345,7 +404,7 @@ function crearGraficaEvolucion() {
                 label: 'Promedio',
                 data: promedios,
                 borderColor: colors[1],
-                backgroundColor: 'rgba(54,162,235,0.1)',
+                backgroundColor: 'rgba(218,210,255,0.28)',
                 fill: true
             }]
         },
@@ -410,10 +469,10 @@ function crearGraficaDistribucion() {
                 data: Object.values(rangos),
 
                 backgroundColor: [
-                    '#4BC0C0',
-                    '#36A2EB',
-                    '#FFCE56',
-                    '#FF6384'
+                    '#FFF2AF',
+                    '#7868d8',
+                    '#DAD2FF',
+                    '#493d9e'
                 ]
             }]
         }
@@ -457,7 +516,7 @@ function crearGraficaAsistencia() {
             datasets: [{
                 label: '% Asistencia',
                 data: tasaAsistencia,
-                backgroundColor: '#4BC0C0'
+                backgroundColor: '#493d9e'
             }]
         },
 

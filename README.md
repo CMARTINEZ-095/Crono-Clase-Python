@@ -1,155 +1,138 @@
-# 📚 Crono-Clase - Sistema de Visualización de Datos Académicos
+﻿# 📚 Crono-Clase - Sistema de Visualización de Datos Académicos
 
 ## Descripción
-Sistema completo de gestión y visualización de datos académicos que incluye información de estudiantes, materias, profesores, calificaciones y asistencia. Presenta múltiples gráficas interactivas para análisis visual de datos.
+Sistema de visualización académica con análisis de calificaciones, asistencia, profesores y rendimiento estudiantil. La interfaz web muestra gráficas interactivas basadas en los datos procesados.
 
 ## 📁 Estructura del Proyecto
 
-```
-Crono-Clase/
-├── main.py                          # Script principal de procesamiento
+```text
+Crono-Clase-Python/
+├── main.py                          # Procesamiento principal y exportación
+├── server.py                        # Servidor local para servir la interfaz
 ├── Backend/
 │   ├── __init__.py
-│   ├── lectura_new.py              # Lectura de CSV
-│   ├── limpieza_new.py             # Limpieza de datos
-│   ├── analisis_new.py             # Análisis de datos
-│   └── exportar_new.py             # Exportación a JSON y CSV
-├── Frontend/
-│   ├── index.html                  # Página principal
-│   ├── app.js                      # Lógica de gráficas y filtros
-│   ├── style.css                   # Estilos CSS
-│   └── estudiantes_limpio.json     # Datos procesados (generado automáticamente)
+│   ├── analisis.py                   # Análisis de datos
+│   ├── exportar.py                   # Exportación de resultados
+│   ├── lectura.py                    # Lectura de archivos CSV
+│   └── limpieza.py                   # Limpieza y normalización
 ├── Data/
-│   └── EstudiantesCronoClase.csv   # Datos de entrada
+│   └── EstudiantesCronoClase.csv     # Datos de entrada
+├── Frontend/
+│   ├── index.html                    # Página principal
+│   ├── app.js                        # Gráficas, filtros y tabla
+│   ├── style.css                     # Estilos y responsive
+│   ├── estudiantes_limpio.json       # Datos procesados para la web
+│   └── estudiantes_limpio.csv        # Export CSV de respaldo
 ├── Output/
-│   └── estudiantes_limpio.csv      # CSV procesado (generado automáticamente)
-└── README.md                        # Este archivo
+│   └── estudiantes_limpio.csv        # Salida generada por el procesamiento
+└── README.md                         # Este archivo
 ```
 
 ## 🚀 Instalación y Ejecución
 
 ### 1. Requisitos Previos
 - Python 3.8+
-- pip (gestor de paquetes Python)
+- Pip para instalar dependencias
 
 ### 2. Configuración del Entorno
-Se ha creado un virtual environment. Activarlo:
+Se recomienda usar un entorno virtual. En Windows PowerShell:
 
-**Windows (PowerShell):**
 ```powershell
+python -m venv .venv
 .\.venv\Scripts\Activate
 ```
 
-**Windows (CMD):**
-```cmd
-.venv\Scripts\activate.bat
-```
-
-**Linux/Mac:**
-```bash
-source .venv/bin/activate
-```
-
 ### 3. Instalar Dependencias
-```bash
+```powershell
 pip install pandas
 ```
 
-### 4. Ejecutar el Script Principal
-```bash
+### 4. Procesar los datos
+```powershell
 python main.py
 ```
 
-Este comando:
-- Lee el archivo CSV de datos
-- Limpia y normaliza los datos
-- Realiza análisis estadístico
-- Exporta a CSV y JSON
+Este paso:
+- lee el CSV desde `Data/`
+- limpia y normaliza las calificaciones
+- genera los archivos de salida en `Frontend/` y `Output/`
 
-### 5. Ver la Interfaz Web
-1. Abre el archivo `Frontend/index.html` en tu navegador web
-2. O sirve los archivos con un servidor local:
-
-**Con Python 3:**
-```bash
-cd Frontend
-python -m http.server 8000
+### 5. Abrir la interfaz web
+```powershell
+python server.py
 ```
 
-Luego accede a: `http://localhost:8000`
+El servidor sirve la carpeta `Frontend` en `http://localhost:8000`.
 
-## 📊 Características
+## 📊 Características de la Interfaz
 
-### Gráficas Incluidas
-1. **Calificaciones por Estudiante** - Gráfica de barras
-2. **Promedio por Materia** - Gráfica tipo dona
-3. **Promedio por Profesor** - Gráfica de radar
-4. **Evolución Temporal** - Gráfica de líneas
-5. **Distribución de Calificaciones** - Gráfica tipo pastel
-6. **Tasa de Asistencia** - Gráfica de barras
+### Gráficas incluidas
+1. **Mejores Estudiantes** - ranking horizontal de rendimiento promedio.
+2. **Promedio por Materia** - distribución por materia.
+3. **Promedio por Profesor** - visualización combinada con la gráfica de notas definitivas.
+4. **Notas Definitivas** - promedio consolidado por estudiante en una gráfica separada.
+5. **Evolución Temporal** - tendencia de calificaciones por fecha.
+6. **Distribución de Calificaciones** - rangos de rendimiento.
+7. **Tasa de Asistencia** - porcentaje de asistencia por estudiante.
 
-### Filtros Interactivos
-- Filtrar por Estudiante
-- Filtrar por Materia
-- Filtrar por Profesor
+### Filtros interactivos
+- Filtrar por estudiante
+- Filtrar por materia
+- Filtrar por profesor
 - Reiniciar filtros
 
-### Estadísticas Generales
+### Estadísticas generales
 - Total de estudiantes
 - Total de materias
 - Total de profesores
 - Promedio general de calificaciones
 
-### Tabla de Datos
-- Vista completa de todos los datos
-- Indicador visual de asistencia (✅/❌)
-- Valores de calificación destacados
+### Tabla de datos
+- Vista completa de registros filtrados
+- Indicador visual de asistencia ✅ / ❌
+- Calificaciones resaltadas en la tabla
 
-## 📝 Formato de Datos
+## 📝 Formato de datos esperado
 
-El archivo CSV debe tener las siguientes columnas:
-- `estudiante`: Nombre del estudiante
-- `materia`: Nombre de la materia
-- `profesor`: Nombre del profesor
-- `fecha`: Fecha del registro (formato YYYY-MM-DD)
-- `calificacion`: Calificación numérica (0-100)
-- `asistencia`: "Presente" o "Ausente"
+El CSV de entrada debe contener estas columnas:
+- `estudiante`
+- `materia`
+- `profesor`
+- `fecha` (YYYY-MM-DD)
+- `calificacion`
+- `asistencia`
 
 ## 🔧 Personalización
 
-### Agregar Más Datos
-1. Edita o reemplaza el archivo `Data/EstudiantesCronoClase.csv`
-2. Ejecuta `python main.py` nuevamente
-3. Recarga la página web en el navegador
+### Agregar o actualizar datos
+1. Edita `Data/EstudiantesCronoClase.csv`
+2. Ejecuta `python main.py`
+3. Reinicia el servidor con `python server.py`
 
-### Cambiar Colores
-Edita el array `colors` en `Frontend/app.js`:
-```javascript
-const colors = [
-    '#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF',
-    // Agrega más colores aquí
-];
-```
+### Cambiar colores
+Edita el arreglo `colors` en `Frontend/app.js`.
 
-### Modificar Estilos
-Todos los estilos están en `Frontend/style.css`. Modifica variables CSS o clases según necesites.
+### Modificar estilos
+Los estilos están en `Frontend/style.css`.
 
 ## 📦 Dependencias
 
-- **pandas**: Procesamiento y análisis de datos CSV
-- **Chart.js**: (Cliente) Librería para gráficas interactivas
+- **pandas**: procesamiento y análisis de datos
+- **Chart.js**: visualización de gráficas en el navegador
+
+## 💡 Uso rápido
+
+1. `python main.py`
+2. `python server.py`
+3. Abrir `http://localhost:8000`
 
 ## 🤝 Contribuciones
 
-Este es un proyecto educativo. Siéntete libre de modificar y mejorar el código.
+Proyecto educativo para análisis académico y visualización de datos.
 
 ## 📄 Licencia
 
-Este proyecto es de código abierto y está disponible para uso educativo.
-
-## 👤 Autor
-
-Creado como sistema de gestión académica para Crono-Clase.
+Uso educativo y abierto para fines académicos.
 
 ---
 

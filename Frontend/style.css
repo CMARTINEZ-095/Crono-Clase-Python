@@ -1,3 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Vibur&display=swap');
+
+:root {
+    --color-primary: #493d9e;
+    --color-primary-soft: #7868d8;
+    --color-secondary: #DAD2FF;
+    --color-accent: #FFF2AF;
+    --color-accent-strong: #B2A5FF;
+    --color-surface: rgba(248, 247, 252, 0.78);
+    --color-surface-card: rgba(255, 255, 255, 0.9);
+    --color-border: #493d9e;
+    --color-text: #493d9e;
+    --shadow-soft: 0 10px 30px rgba(73, 61, 158, 0.18);
+}
+
 /* ========================================
    ESTILOS GENERALES
    ======================================== */
@@ -9,11 +24,13 @@
 }
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background:
+        radial-gradient(circle at top, rgba(218, 210, 255, 0.9), transparent 30%),
+        linear-gradient(180deg, #f8f7fc 0%, #e8e2ff 35%, #fffaf0 100%);
     min-height: 100vh;
     padding: 20px;
-    color: #333;
+    color: var(--color-text);
 }
 
 .container {
@@ -26,23 +43,28 @@ body {
    ======================================== */
 
 .header {
-    background: white;
+    background: rgba(255, 255, 255, 0.82);
+    border: 2px solid var(--color-border);
     padding: 40px 20px;
-    border-radius: 15px;
+    border-radius: 20px;
     margin-bottom: 30px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    box-shadow: var(--shadow-soft);
     text-align: center;
+    backdrop-filter: blur(4px);
 }
 
 .header h1 {
-    color: #667eea;
-    font-size: 2.5rem;
+    color: var(--color-primary);
+    font-family: 'Vibur', cursive;
+    font-size: 4rem;
     margin-bottom: 10px;
+    letter-spacing: 1px;
 }
 
 .header p {
-    color: #666;
+    color: #5e529f;
     font-size: 1.1rem;
+    font-weight: 600;
 }
 
 /* ========================================
@@ -50,15 +72,17 @@ body {
    ======================================== */
 
 .controls {
-    background: white;
+    background: rgba(255, 255, 255, 0.82);
+    border: 2px solid var(--color-border);
     padding: 25px;
-    border-radius: 15px;
+    border-radius: 20px;
     margin-bottom: 30px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    box-shadow: var(--shadow-soft);
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 20px;
     align-items: flex-end;
+    backdrop-filter: blur(4px);
 }
 
 .filter-group {
@@ -67,44 +91,46 @@ body {
 }
 
 .filter-group label {
-    font-weight: 600;
-    color: #667eea;
+    font-weight: 700;
+    color: var(--color-primary);
     margin-bottom: 8px;
     font-size: 0.95rem;
 }
 
 .filter-group select {
     padding: 10px 15px;
-    border: 2px solid #e0e0e0;
-    border-radius: 8px;
+    border: 2px solid var(--color-primary);
+    border-radius: 10px;
     font-size: 1rem;
     transition: all 0.3s ease;
-    background-color: white;
+    background-color: #fffdfd;
     cursor: pointer;
+    color: var(--color-text);
 }
 
 .filter-group select:hover,
 .filter-group select:focus {
-    border-color: #667eea;
+    border-color: var(--color-primary-soft);
     outline: none;
-    box-shadow: 0 0 10px rgba(102, 126, 234, 0.2);
+    box-shadow: 0 0 10px rgba(73, 61, 158, 0.18);
 }
 
 .btn-reset {
     padding: 10px 20px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
-    border: none;
-    border-radius: 8px;
+    background: linear-gradient(135deg, var(--color-accent) 0%, var(--color-accent-strong) 100%);
+    color: var(--color-primary);
+    border: 2px solid var(--color-primary);
+    border-radius: 10px;
     font-size: 1rem;
-    font-weight: 600;
+    font-weight: 700;
     cursor: pointer;
     transition: all 0.3s ease;
 }
 
 .btn-reset:hover {
     transform: translateY(-2px);
-    box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
+    box-shadow: 0 5px 20px rgba(73, 61, 158, 0.28);
+    background: linear-gradient(135deg, var(--color-accent-strong) 0%, var(--color-secondary) 100%);
 }
 
 .btn-reset:active {
@@ -123,21 +149,23 @@ body {
 }
 
 .stat-card {
-    background: white;
+    background: rgba(255, 255, 255, 0.82);
+    border: 2px solid var(--color-primary);
     padding: 25px;
-    border-radius: 15px;
+    border-radius: 20px;
     text-align: center;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    box-shadow: var(--shadow-soft);
     transition: all 0.3s ease;
+    backdrop-filter: blur(4px);
 }
 
 .stat-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 15px 40px rgba(73, 61, 158, 0.25);
 }
 
 .stat-card h3 {
-    color: #667eea;
+    color: var(--color-primary);
     font-size: 0.95rem;
     margin-bottom: 10px;
     text-transform: uppercase;
@@ -146,8 +174,8 @@ body {
 
 .stat-number {
     font-size: 2.5rem;
-    font-weight: bold;
-    color: #333;
+    font-weight: 800;
+    color: var(--color-primary);
     margin: 0;
 }
 
@@ -163,27 +191,46 @@ body {
 }
 
 .chart-container {
-    background: white;
+    background: rgba(255, 255, 255, 0.82);
+    border: 2px solid var(--color-primary);
     padding: 25px;
-    border-radius: 15px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    box-shadow: var(--shadow-soft);
     transition: all 0.3s ease;
+    backdrop-filter: blur(4px);
 }
 
 .chart-container:hover {
-    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 15px 40px rgba(73, 61, 158, 0.24);
 }
 
 .chart-container h2 {
-    color: #667eea;
+    color: var(--color-primary);
     font-size: 1.3rem;
     margin-bottom: 20px;
-    border-bottom: 3px solid #667eea;
+    border-bottom: 3px solid var(--color-primary);
     padding-bottom: 10px;
 }
 
 .chart-container canvas {
     max-height: 350px;
+}
+
+.chart-pair {
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 30px;
+}
+
+.chart-pair .chart-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.chart-pair .chart-container canvas {
+    flex: 1;
+    min-height: 320px;
 }
 
 .chart-full {
@@ -199,18 +246,20 @@ body {
    ======================================== */
 
 .table-container {
-    background: white;
+    background: rgba(255, 255, 255, 0.82);
+    border: 2px solid var(--color-primary);
     padding: 25px;
-    border-radius: 15px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    box-shadow: var(--shadow-soft);
     margin-bottom: 40px;
+    backdrop-filter: blur(4px);
 }
 
 .table-container h2 {
-    color: #667eea;
+    color: var(--color-primary);
     font-size: 1.3rem;
     margin-bottom: 20px;
-    border-bottom: 3px solid #667eea;
+    border-bottom: 3px solid var(--color-primary);
     padding-bottom: 10px;
 }
 
@@ -226,19 +275,20 @@ table {
 }
 
 thead {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
+    background: linear-gradient(180deg, var(--color-primary) 0%, var(--color-primary-soft) 100%);
+    color: #fff;
 }
 
 th {
     padding: 15px;
     text-align: left;
-    font-weight: 600;
+    font-weight: 700;
 }
 
 td {
     padding: 12px 15px;
-    border-bottom: 1px solid #e0e0e0;
+    border-bottom: 1px solid rgba(73, 61, 158, 0.18);
+    color: #4f4986;
 }
 
 tbody tr {
@@ -246,12 +296,12 @@ tbody tr {
 }
 
 tbody tr:hover {
-    background-color: #f5f5f5;
+    background-color: rgba(218, 210, 255, 0.45);
     transform: scale(1.01);
 }
 
 tbody tr:nth-child(even) {
-    background-color: #f9f9f9;
+    background-color: rgba(255, 255, 255, 0.55);
 }
 
 /* ========================================
@@ -259,16 +309,19 @@ tbody tr:nth-child(even) {
    ======================================== */
 
 .footer {
-    background: white;
+    background: rgba(255, 255, 255, 0.82);
+    border: 2px solid var(--color-primary);
     padding: 20px;
-    border-radius: 15px;
+    border-radius: 20px;
     text-align: center;
-    color: #666;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    color: #5e529f;
+    box-shadow: var(--shadow-soft);
+    backdrop-filter: blur(4px);
 }
 
 .footer p {
     margin: 0;
+    font-weight: 600;
 }
 
 /* ========================================
@@ -277,6 +330,10 @@ tbody tr:nth-child(even) {
 
 @media (max-width: 1024px) {
     .charts-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .chart-pair {
         grid-template-columns: 1fr;
     }
 
@@ -387,12 +444,12 @@ tbody tr:nth-child(even) {
 }
 
 ::-webkit-scrollbar-track {
-    background: #f1f1f1;
+    background: rgba(218, 210, 255, 0.45);
     border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #667eea;
+    background: linear-gradient(180deg, var(--color-primary) 0%, var(--color-primary-soft) 100%);
     border-radius: 10px;
 }
 

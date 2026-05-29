@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Crono-Clase | Visualización de Datos de Estudiantes</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
     <link rel="stylesheet" href="style.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 </head>
@@ -62,9 +63,9 @@
 
         <!-- GRÁFICAS -->
         <div class="charts-grid">
-            <!-- Gráfica 1: Calificaciones por Estudiante -->
+            <!-- Gráfica 1: Ranking de Estudiantes -->
             <div class="chart-container">
-                <h2>📊 Calificaciones por Estudiante</h2>
+                <h2>🏅 Mejores Estudiantes</h2>
                 <canvas id="chartEstudiantes"></canvas>
             </div>
 
@@ -74,13 +75,20 @@
                 <canvas id="chartMaterias"></canvas>
             </div>
 
-            <!-- Gráfica 3: Calificaciones por Profesor -->
-            <div class="chart-container">
-                <h2>👨‍🏫 Promedio por Profesor</h2>
-                <canvas id="chartProfesores"></canvas>
+            <!-- Gráficas 3 y 4: Promedio por Profesor y Notas Definitivas -->
+            <div class="chart-pair">
+                <div class="chart-container">
+                    <h2>👨‍🏫 Promedio por Profesor</h2>
+                    <canvas id="chartProfesores"></canvas>
+                </div>
+
+                <div class="chart-container">
+                    <h2>🏆 Notas Definitivas por Estudiante</h2>
+                    <canvas id="chartNotasDefinitivas"></canvas>
+                </div>
             </div>
 
-            <!-- Gráfica 4: Evolución Temporal -->
+            <!-- Gráfica 5: Evolución Temporal -->
             <div class="chart-container chart-full">
                 <h2>📈 Evolución de Calificaciones en el Tiempo</h2>
                 <canvas id="chartEvolucion"></canvas>
